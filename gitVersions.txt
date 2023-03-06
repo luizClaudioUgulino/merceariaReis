@@ -1,0 +1,7 @@
+
+
+
+////////////////////////////// versions control  ///////////////////////////////
+
+L0001 - Criação do html principal e vinculo do git main com diretório.
+L0002 - Criação do txt de control version
